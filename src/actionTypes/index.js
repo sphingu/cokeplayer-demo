@@ -1,0 +1,11 @@
+export const GET_SONGS_REQUEST = 'GET_SONGS_REQUEST'
+export const GET_SONGS_SUCCESS = 'GET_SONGS_SUCCESS'
+export const GET_SONGS_ERROR = 'GET_SONGS_ERROR'
+
+export const SELECT_SONG = 'SELECT_SONG'
+export const PLAY_SONG = 'PLAY_SONG'
+export const PLAY = 'PLAY'
+export const PAUSE = 'PAUSE'
+
+export const SEARCH_TEXT_CHANGE = 'SEARCH_TEXT_CHANGE'
+export const TOGGLE_FAVOURITE = 'TOGGLE_FAVOURITE'
